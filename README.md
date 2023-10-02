@@ -1,4 +1,4 @@
-# Generic Worker Pool with Load Balancing in Go
+# Worker Pool with Load Balancing in Go
 This Go code provides a compact and generic implementation of a worker pool with load balancing. It efficiently distributes tasks among a dynamic pool of workers. Here's a concise overview of the code:
 
 ## Overview
